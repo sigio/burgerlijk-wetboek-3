@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-12-2002 t/m 31-12-2002
+Geldend van 01-01-2003 t/m 20-05-2003
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -114,7 +114,7 @@ Artikel 17
 
 1.	Behalve die feiten waarvan inschrijving krachtens andere wetsbepalingen mogelijk is, kunnen in deze registers de volgende feiten worden ingeschreven:
 	a.	rechtshandelingen die een verandering in de rechtstoestand van registergoederen brengen of in enig ander opzicht voor die rechtstoestand van belang zijn;
-	b.	erfopvolgingen die registergoederen betreffen, daaronder begrepen de opvolging door de Staat krachtens artikel 879, tweede lid, en de inbezitstelling krachtens artikel 1175 van Boek 4;
+	b.	erfopvolgingen die registergoederen betreffen, daaronder begrepen de opvolging door de Staat krachtens de artikelen 189 en 226 lid 4 van Boek 4, en de afgifte van registergoederen aan de Staat krachtens artikel 226 leden 1 en 2 van Boek 4;
 	c.	vervulling van de voorwaarde, gesteld in een ingeschreven voorwaardelijke rechtshandeling, en de verschijning van een onzeker tijdstip, aangeduid in de aan een ingeschreven rechtshandeling verbonden tijdsbepaling, alsmede de dood van een vruchtgebruiker van een registergoed;
 	d.	reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld;
 	e.	rechterlijke uitspraken die de rechtstoestand van registergoederen of de bevoegdheid daarover te beschikken betreffen, mits zij uitvoerbaar bij voorraad zijn of een verklaring van de griffier wordt overgelegd, dat daartegen geen gewoon rechtsmiddel meer openstaat of dat hem drie maanden na de uitspraak niet van het instellen van een gewoon rechtsmiddel is gebleken, benevens de tegen de bovenbedoelde uitspraken ingestelde rechtsmiddelen;
@@ -904,7 +904,7 @@ Artikel 168
 
 4.	Een regeling is ook bindend voor de rechtverkrijgenden van een deelgenoot.
 
-5.	Op een overeenkomstig lid 2 ingesteld bewind zijn, voor zover de kantonrechter niet anders heeft bepaald, de artikelen 433 lid 1, 435, 436 leden 1-3, 437, 438 lid 1, 439, 441 lid 1, eerste zin, en 442-448 van Boek 1 van toepassing. Het kan door een gezamenlijk besluit van de deelgenoten of op verzoek van een hunner door de kantonrechter worden opgeheven.
+5.	Op een overeenkomstig lid 2 ingesteld bewind zijn, voor zover de kantonrechter niet anders heeft bepaald, de artikelen 154, 157 tot en met 166, 168, 172, 173 en 174 van Boek 4, van overeenkomstige toepassing, met dien verstande dat de kantonrechter de in artikel 159 van Boek 4 bedoelde beloning ook op grond van bijzondere omstandigheden anders kan regelen, alsmede dat hij de in artikel 160 van Boek 4 bedoelde zekerheidstelling te allen tijde kan bevelen. Het kan door een gezamenlijk besluit van de deelgenoten of op verzoek van een hunner door de kantonrechter worden opgeheven.
 
 Artikel 169
 
@@ -1071,7 +1071,11 @@ Tot de gemeenschap behorende schulden kunnen op de goederen van de gemeenschap w
 
 Artikel 193
 
-Een schuldeiser wiens vordering op de goederen van de gemeenschap kan worden verhaald, is bevoegd zich tegen verdeling van de gemeenschap te verzetten. Een verdeling die na dit verzet is tot stand gekomen, is vernietigbaar met dien verstande dat de vernietigingsgrond slechts kan worden ingeroepen door de schuldeiser die zich verzette en dat hij de verdeling slechts te zijnen behoeve kan vernietigen en niet verder dan nodig is tot opheffing van de door hem ondervonden benadeling.
+1.	Een schuldeiser wiens vordering op de goederen der gemeenschap kan worden verhaald, kan de rechter verzoeken een vereffenaar te benoemen wanneer tot verdeling van de gemeenschap wordt overgegaan voordat de opeisbare schulden daarvan zijn voldaan of wanneer voor hem het gevaar bestaat dat hij niet ten volle of niet binnen een redelijke tijd zal worden voldaan, hetzij omdat de gemeenschap niet toereikend is of niet behoorlijk beheerd of afgewikkeld wordt, hetzij omdat een schuldeiser zich op de goederen van de gemeenschap gaat verhalen. Afdeling 3 van titel 6 van Boek 4 betreffende de vereffening van een nalatenschap is van toepassing of overeenkomstige toepassing.
+
+2.	Ook een schuldeiser van een deelgenoot kan de rechter verzoeken een vereffenaar te benoemen, wanneer zijn belangen door een gedraging van de deelgenoten ernstig worden geschaad.
+
+3.	Voor de ontbonden gemeenschap van een maatschap of vennootschap zijn de leden 1 en 2 niet van toepassing en gelden de volgende zinnen. Een schuldeiser wiens vordering op de goederen van de gemeenschap kan worden verhaald, is bevoegd zich tegen verdeling van de gemeenschap te verzetten. Een verdeling die na dit verzet is tot stand gekomen, is vernietigbaar met dien verstande dat de vernietigingsgrond slechts kan worden ingeroepen door de schuldeiser die zich verzette en dat hij de verdeling slechts te zijnen behoeve kan vernietigen en niet verder dan nodig is tot opheffing van de door hem ondervonden benadeling.
 
 Artikel 194
 
@@ -1133,9 +1137,7 @@ Artikel 203
 
 Artikel 204
 
-1.	Bij een uiterste wilsbeschikking kan bewind worden ingesteld over een daarbij gelegateerd vruchtgebruik of over de goederen waarop het rust. In geval van vruchtgebruik krachtens een andere titel dan legaat, kan dit bij notariële akte geschieden.
-
-2.	Op het bewind zijn de artikelen 433 lid 1, 435, 436 leden 1-3, 437, 438 lid 1, 439, 441 leden 1 en 4, 442-448 en 449 lid 2 van Boek 1 van toepassing met dien verstande dat de vruchtgebruiker en de hoofdgerechtigde beiden als rechthebbende gelden, voor zover uit hun rechtsverhouding niet anders voortvloeit.
+[Vervallen per 01-01-2003]
 
 Artikel 205
 
@@ -1213,11 +1215,11 @@ Artikel 214
 
 Artikel 215
 
-1.	Komt de vruchtgebruiker de bevoegdheid tot gehele of gedeeltelijke vervreemding of vertering van aan het vruchtgebruik onderworpen goederen toe, dan kan de hoofdgerechtigde bij het einde van het vruchtgebruik afgifte vorderen van de in vruchtgebruik gegeven goederen of hetgeen daarvoor in de plaats getreden is, voor zover de vruchtgebruiker of zijn rechtverkrijgenden niet bewijzen dat die goederen verteerd of door toeval tenietgegaan zijn.
+1.	Is bij de vestiging van een vruchtgebruik of daarna aan de vruchtgebruiker de bevoegdheid gegeven tot gehele of gedeeltelijke vervreemding en vertering van aan het vruchtgebruik onderworpen goederen, dan kan de hoofdgerechtigde bij het einde van het vruchtgebruik afgifte vorderen van de in vruchtgebruik gegeven goederen of hetgeen daarvoor in de plaats getreden is, voor zover de vruchtgebruiker of zijn rechtverkrijgenden niet bewijzen dat die goederen verteerd of door toeval tenietgegaan zijn.
 
-2.	Bij de vestiging van het vruchtgebruik kunnen een of meer personen worden aangewezen, wier toestemming voor de vervreemding en voor de vertering nodig is. Staat het vruchtgebruik onder bewind, dan zijn de vervreemding en de vertering van de medewerking van de bewindvoerder afhankelijk.
+2.	Bij verlening van de bevoegdheid tot vervreemding en vertering kunnen een of meer personen worden aangewezen, wier toestemming voor de vervreemding en voor de vertering nodig is. Staat het vruchtgebruik onder bewind, dan zijn de vervreemding en de vertering van de medewerking van de bewindvoerder afhankelijk.
 
-3.	Komt de vruchtgebruiker de bevoegdheid tot vervreemding of vertering toe, dan mag hij de goederen ook voor gebruikelijke kleine geschenken bestemmen.
+3.	Is aan de vruchtgebruiker de bevoegdheid tot vervreemding en vertering verleend, dan mag hij de goederen ook voor gebruikelijke kleine geschenken bestemmen.
 
 Artikel 216
 
@@ -1241,7 +1243,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 Artikel 219
 
-Buiten de gevallen, geregeld in de artikelen 88 en 197 van Boek 2, blijft de uitoefening van stemrecht, verbonden aan een goed dat aan vruchtgebruik is onderworpen, de hoofdgerechtigde toekomen, tenzij bij de vestiging van het vruchtgebruik anders is bepaald.
+Buiten de gevallen, geregeld in de artikelen 88 en 197 van Boek 2 en artikel 123 van Boek 5, blijft de uitoefening van stemrecht, verbonden aan een goed dat aan vruchtgebruik is onderworpen, de hoofdgerechtigde toekomen, tenzij bij de vestiging van het vruchtgebruik anders is bepaald. Bij een vruchtgebruik als bedoeld in de artikelen 19 en 21 van Boek 4 komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op de voet van artikel 23 lid 4 van Boek 4 anders wordt bepaald.
 
 Artikel 220
 
@@ -1255,7 +1257,7 @@ Artikel 221
 
 2.	De rechtbank kan hangende het geding het vruchtgebruik bij voorraad onder bewind stellen.
 
-3.	De rechtbank kan voor het bewind of beheer zodanige voorschriften geven als zij dienstig acht. Op het bewind zijn, voor zover deze voorschriften niet anders bepalen, de artikelen 433 lid 1, 435, 436 leden 1-3, 437, 438 lid 1, 439, 441 leden 1 en 4 en 442-449 van Boek 1 van toepassing met dien verstande dat de vruchtgebruiker en de hoofdgerechtigde beiden als rechthebbende gelden, voor zover uit hun rechtsverhouding niet anders voortvloeit.
+3.	De rechtbank kan voor het bewind of beheer zodanige voorschriften geven als zij dienstig acht. Op het bewind zijn voor het overige de artikelen 154, 157 tot en met 166, 168, 170, 172, 173, 174 en 177 lid 1 van Boek 4 van overeenkomstige toepassing, met dien verstande dat de kantonrechter de in artikel 159 van Boek 4 bedoelde beloning ook op grond van bijzondere omstandigheden anders kan regelen, alsmede dat hij de in artikel 160 van Boek 4 bedoelde zekerheidstelling te allen tijde kan bevelen. Het bewind kan door een gezamenlijk besluit van de vruchtgebruiker en de hoofdgerechtigde of op verzoek van een hunner door de rechtbank worden opgeheven.
 
 Artikel 222
 
@@ -1695,7 +1697,7 @@ Artikel 288
 
 De bevoorrechte vorderingen op alle goederen zijn de vorderingen ter zake van:
 	a.	de kosten van de aanvraag tot faillietverklaring, doch alleen ter zake van het faillissement dat op de aanvraag is uitgesproken, alsmede van de kosten, door een schuldeiser gemaakt, ter verkrijging van vereffening buiten faillissement;
-	b.	de kosten van lijkbezorging, voor zover zij in overeenstemming zijn met een stand en het fortuin van de overledene;
+	b.	de kosten van lijkbezorging, voor zover zij in overeenstemming zijn met de omstandigheden van de overledene;
 	c.	hetgeen een werknemer, een gewezen werknemer en hun nabestaanden ter zake van reeds vervallen termijnen van pensioen van de werkgever te vorderen hebben, voor zover de vordering niet ouder is dan een jaar;
 	d.	hetgeen waarop een werknemer, niet zijnde een bestuurder van de rechtspersoon bij wie hij in dienst is, een gewezen werknemer en hun nabestaanden ter zake van in de toekomst tot uitkering komende termijnen van toegezegd pensioen jegens de werkgever recht hebben;
 	e.	al hetgeen een werknemer over het lopende en het voorafgaande kalenderjaar in geld op grond van de arbeidsovereenkomst van zijn werkgever te vorderen heeft, alsmede de bedragen door de werkgever aan de werknemer in verband met de beëindiging van de arbeidsovereenkomst verschuldigd uit hoofde van de bepalingen van het Burgerlijk Wetboek betreffende de arbeidsovereenkomst.
@@ -1838,7 +1840,7 @@ Artikel 310
 
 1.	Een rechtsvordering tot vergoeding van schade of tot betaling van een bedongen boete verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de benadeelde zowel met de schade of de opeisbaarheid van de boete als met de daarvoor aansprakelijke persoon bekend is geworden, en in ieder geval door verloop van twintig jaren na de gebeurtenis waardoor de schade is veroorzaakt of de boete opeisbaar is geworden.
 
-2.	Is de schade een gevolg van verontreiniging van lucht, water of bodem dan wel van de verwezenlijking van een gevaar als bedoeld in artikel 175 van Boek 6, dan verjaart de rechtsvordering tot vergoeding van schade, in afwijking van het aan het slot van lid 1 bepaalde, in ieder geval door verloop van dertig jaren na de gebeurtenis waardoor de schade is veroorzaakt.
+2.	Is de schade een gevolg van verontreiniging van lucht, water of bodem, van de verwezenlijking van een gevaar als bedoeld in artikel 175 van Boek 6 dan wel van beweging van de bodem als bedoeld in artikel 177, eerste lid, onder b, van Boek 6, dan verjaart de rechtsvordering tot vergoeding van schade, in afwijking van het aan het slot van lid 1 bepaalde, in ieder geval door verloop van dertig jaren na de gebeurtenis waardoor de schade is veroorzaakt.
 
 3.	Voor de toepassing van lid 2 wordt onder gebeurtenis verstaan een plotseling optredend feit, een voortdurend feit of een opeenvolging van feiten met dezelfde oorzaak. Bestaat de gebeurtenis uit een voortdurend feit, dan begint de termijn van dertig jaren bedoeld in lid 2 te lopen nadat dit feit is opgehouden te bestaan. Bestaat de gebeurtenis uit een opeenvolging van feiten met dezelfde oorzaak, dan begint deze termijn te lopen na dit laatste feit.
 
