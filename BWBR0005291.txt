@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2003 t/m 20-05-2003
+Geldend van 21-05-2003 t/m 31-07-2003
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -86,15 +86,51 @@ Artikel 15
 
 De artikelen 11-14 vinden buiten het vermogensrecht toepassing, voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
 
-Afdeling 1A. Het voeren van een administratie
+Afdeling 1A. Elektronisch vermogensrechtelijk rechtsverkeer
 
 Artikel 15a
+
+1.	Een elektronische handtekening heeft dezelfde rechtsgevolgen als een handgeschreven handtekening, indien de methode die daarbij is gebruikt voor authentificatie voldoende betrouwbaar is, gelet op het doel waarvoor de elektronische gegevens werden gebruikt en op alle overige omstandigheden van het geval.
+
+2.	Een in lid 1 bedoelde methode wordt vermoed voldoende betrouwbaar te zijn, indien een elektronische handtekening voldoet aan de volgende eisen:
+	a.	zij is op unieke wijze aan de ondertekenaar verbonden;
+	b.	zij maakt het mogelijk de ondertekenaar te identificeren;
+	c.	zij komt tot stand met middelen die de ondertekenaar onder zijn uitsluitende controle kan houden; en
+	d.	zij is op zodanige wijze aan het elektronisch bestand waarop zij betrekking heeft verbonden, dat elke wijziging achteraf van de gegevens kan worden opgespoord;
+	e.	zij is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel dd Telecommunicatiewet; en
+	f.	zij is gegenereerd door een veilig middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1, onderdeel gg Telecommunicatiewet.
+
+3.	Een in lid 1 bedoelde methode kan niet als onvoldoende betrouwbaar worden aangemerkt op de enkele grond dat deze:
+	-	niet is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel dd Telecommunicatiewet;
+	-	niet is gebaseerd op een door een certificatiedienstverlener als bedoeld in artikel 18.16, eerste lid, Telecommunicatiewet afgegeven certificaat; of
+	-	niet met een veilig middel voor het aanmaken van elektronische handtekeningen is aangemaakt als bedoeld in artikel 1.1, onderdeel gg Telecommunicatiewet.
+
+4.	Onder elektronische handtekening wordt een handtekening verstaan die bestaat uit elektronische gegevens die zijn vastgehecht aan of logisch geassocieerd zijn met andere elektronische gegevens en die worden gebruikt als middel voor authentificatie.
+
+5.	Onder ondertekenaar wordt degene verstaan die een middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1, onderdeel ff Telecommunicatiewet gebruikt.
+
+6.	Tussen partijen kan van lid 2 en 3 worden afgeweken.
+
+Artikel 15b
+
+Een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel dd Telecommunicatiewet, afgegeven aan het publiek door een certificatiedienstverlener gevestigd in een derde land, heeft dezelfde geldigheid als een gekwalificeerd certificaat afgegeven door een in de Europese Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde certificatiedienstverlener, indien:
+	a.	de certificatiedienstverlener voldoet aan de in richtlijn nr. 99/93/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG L 13) gestelde eisen en beschikt over een in het kader van een in een lidstaat van de Europese Gemeenschap Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte afgegeven bewijs van toetsing als bedoeld in artikel 18.16, eerste lid Telecommunicatiewet, dan wel
+	b.	een in de Europese Gemeenschap of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde certificatiedienstverlener die voldoet aan de eisen van richtlijn nr. 99/93/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG L 13) voor dat certificaat instaat, dan wel
+	c.	het certificaat of de certificatiedienstverlener is erkend in het kader van een bilaterale of multilaterale overeenkomst tussen de Europese Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en derde landen of internationale organisaties.
+
+Artikel 15c
+
+Buiten het vermogensrecht vinden de bepalingen van deze afdeling overeenkomstige toepassing, voor zover de aard van de rechtshandeling of van de rechtsbetrekking zich daartegen niet verzet.
+
+Afdeling 1B. Het voeren van een administratie
+
+Artikel 15i
 
 1.	Een ieder die een bedrijf of zelfstandig een beroep uitoefent, is verplicht van zijn vermogenstoestand en van alles betreffende zijn bedrijf of beroep, naar de eisen van dat bedrijf of beroep, op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde zijn rechten en verplichtingen kunnen worden gekend.
 
 2.	De leden 2 tot en met 4 van artikel 10 van Boek 2 zijn van overeenkomstige toepassing.
 
-Artikel 15b
+Artikel 15j
 
 Openlegging van tot een administratie behorende boeken, bescheiden en andere gegevensdragers kunnen, voorzover zij daarbij een rechtstreeks en voldoende belang hebben, vorderen:
 	a.	erfgenamen, ten aanzien van de boekhouding van de erflater;
