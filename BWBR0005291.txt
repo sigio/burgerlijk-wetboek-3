@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 19-05-2004 t/m 29-06-2004
+Geldend van 30-06-2004 t/m 30-09-2004
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -124,15 +124,42 @@ Buiten het vermogensrecht vinden de bepalingen van deze afdeling overeenkomstige
 
 Artikel 15d
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Degene die een dienst van de informatiemaatschappij verleent, maakt de volgende gegevens gemakkelijk, rechtstreeks en permanent toegankelijk voor degenen die gebruik maken van deze dienst, in het bijzonder om informatie te verkrijgen of toegankelijk te maken:
+	a.	zijn identiteit en adres van vestiging;
+	b.	gegevens die een snel contact en een rechtstreekse en effectieve communicatie met hem mogelijk maken, met inbegrip van zijn elektronische postadres;
+	c.	voor zover hij in een handelsregister of een vergelijkbaar openbaar register is ingeschreven: het register waar hij is ingeschreven en zijn inschrijvingsnummer, of een vergelijkbaar middel ter identificatie in dat register;
+	d.	voor zover een activiteit aan een vergunningsstelsel is onderworpen: de gegevens over de bevoegde toezichthoudende autoriteit;
+	e.	voor zover hij een gereglementeerd beroep uitoefent:
+		–	de beroepsvereniging of -organisatie waarbij hij is ingeschreven,
+		–	de beroepstitel en de lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte waar die is toegekend,
+		–	een verwijzing naar de beroepsregels die in Nederland van toepassing zijn en de wijze van toegang daartoe;
+	f.	voor zover hij een aan de BTW onderworpen activiteit uitoefent: het btw-identificatienummer zoals bedoeld in artikel 2a, eerste lid, onder g, van de Wet op de Omzetbelasting 1968.
+
+2.	De dienstverlener geeft aanduidingen van prijzen in een dienst van de informatiemaatschappij duidelijk en ondubbelzinnig aan, met de uitdrukkelijke vermelding of, en zo mogelijk welke, belasting en leveringskosten daarbij inbegrepen zijn.
+
+3.	Onder dienst van de informatiemaatschappij wordt verstaan elke dienst die gewoonlijk tegen vergoeding, langs elektronische weg, op afstand en op individueel verzoek van de afnemer van de dienst wordt verricht zonder dat partijen gelijktijdig op dezelfde plaats aanwezig zijn. Een dienst wordt langs elektronische weg verricht indien deze geheel per draad, per radio, of door middel van optische of andere elektromagnetische middelen wordt verzonden, doorgeleid en ontvangen met behulp van elektronische apparatuur voor de verwerking, met inbegrip van digitale compressie, en de opslag van gegevens.
 
 Artikel 15e
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien commerciële communicatie deel uitmaakt van een dienst van de informatiemaatschappij of een dergelijke dienst vormt, zorgt degene in wiens opdracht de commerciële communicatie geschiedt dat:
+	a.	de commerciële communicatie duidelijk als zodanig herkenbaar is;
+	b.	de commerciële communicatie zijn identiteit vermeldt;
+	c.	de commerciële communicatie, indien deze verkoopbevorderende aanbiedingen, wedstrijden of spelen omvat, een duidelijke en ondubbelzinnige vermelding bevat van de aard en de voorwaarden van de aanbieding of de deelneming;
+	d.	ongevraagde commerciële communicatie door middel van elektronische post reeds bij de ontvangst duidelijk en ondubbelzinnig als zodanig herkenbaar is.
+
+2.	[vervallen.]
+
+3.	Onder commerciële communicatie als bedoeld in dit artikel wordt verstaan elke vorm van communicatie bestemd voor het aanprijzen van de goederen, diensten of het imago van een onderneming, instelling of persoon die een commerciële, industriële of ambachtelijke activiteit of een gereglementeerd beroep uitoefent, met uitzondering van informatie die rechtstreeks toegang geeft tot de activiteit van de onderneming, instelling of persoon, in het bijzonder een domeinnaam of een elektronisch postadres. Mededelingen over goederen of diensten of het imago van een onderneming, instelling of persoon die onafhankelijk van deze en in het bijzonder zonder financiële tegenprestatie zijn samengesteld, zijn geen commerciële communicatie.
 
 Artikel 15f
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Degenen die diensten van de informatiemaatschappij verlenen of gebruiken kunnen zich richten tot een door Onze Minister van Justitie in overeenstemming met Onze Minister van Economische Zaken aan te wijzen rechtspersoon teneinde:
+	a.	algemene informatie te verkrijgen over hun contractuele rechten en plichten alsmede over klachtenprocedures en rechtsmiddelen in het geval van een geschil;
+	b.	nadere gegevens te verkrijgen over de autoriteiten of organisaties waar zij nadere informatie of praktische bijstand kunnen krijgen.
+
+2.	De rechtspersoon, bedoeld in lid 1, werkt bij de uitoefening van zijn taken samen met de overeenkomstige organisaties in andere lidstaten van de Europese Unie en de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
+
+3.	De controleurs van de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst – Economische Controle Dienst (Belastingdienst/FIOD-ECD) worden aangewezen als ambtenaren, belast met de opsporing van overtredingen van de voorschriften gesteld bij de artikelen 15d en 15e lid 1.
 
 Afdeling 1B. Het voeren van een administratie
 
@@ -1529,7 +1556,7 @@ Artikel 258
 
 1.	Wanneer een in pand gegeven goed als bedoeld in artikel 236 lid 1 in de macht van de pandgever komt, eindigt het pandrecht, tenzij het met toepassing van artikel 237 lid 1 werd gevestigd.
 
-2.	Afstand van een pandrecht kan geschieden bij enkele overeenkomst, mits van de toestemming van de pandhouder uit een schriftelijke verklaring blijkt.
+2.	Afstand van een pandrecht kan geschieden bij enkele overeenkomst, mits van de toestemming van de pandhouder uit een schriftelijke of elektronische verklaring blijkt. Indien van de toestemming uit een elektronische verklaring blijkt, is artikel 227a lid 1 van Boek 6 van overeenkomstige toepassing.
 
 Afdeling 3. Pandrecht van certificaathouders
 
