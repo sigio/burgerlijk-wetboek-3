@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-02-2004 t/m 30-04-2004
+Geldend van 01-05-2004 t/m 18-05-2004
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -606,7 +606,7 @@ Artikel 80
 
 1.	Men kan goederen onder algemene en onder bijzondere titel verkrijgen.
 
-2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 308 van Boek 2 en door splitsing als bedoeld in artikel 334a van Boek 2.
+2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 309 van Boek 2 en door splitsing als bedoeld in artikel 334a van Boek 2.
 
 3.	Men verkrijgt goederen onder bijzondere titel door overdracht, door verjaring en door onteigening, en voorts op de overige in de wet voor iedere soort aangegeven wijzen van rechtsverkrijging.
 
@@ -1998,4 +1998,4 @@ Artikel 325
 
 Artikel 326
 
-Buiten het vermogensrecht vinden de voorafgaande artikelen overeenkomstige toepassing, voor zover de aard van de betrokken rechtsverhouding zich daartegen niet verzet.
+Buiten het vermogensrecht vinden de bepalingen van deze titel overeenkomstige toepassing, voor zover de aard van de betrokken rechtsverhouding zich daartegen niet verzet.
