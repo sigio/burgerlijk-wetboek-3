@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-02-2007 t/m 10-04-2007
+Geldend van 11-04-2007 t/m 08-05-2007
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -1441,7 +1441,7 @@ Artikel 238
 
 3.	Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan zijn lid 3, aanhef en onder b, en lid 4 van artikel 86 van overeenkomstige toepassing.
 
-4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a leden 1 en 2 ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
+4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a, leden 1 en 2, of volgens artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
 
 Artikel 239
 
@@ -1797,6 +1797,8 @@ Artikel 291
 1.	De schuldeiser kan het retentierecht mede inroepen tegen derden die een recht op de zaak hebben verkregen, nadat zijn vordering was ontstaan en de zaak in zijn macht was gekomen.
 
 2.	Hij kan het retentierecht ook inroepen tegen derden met een ouder recht, indien zijn vordering voortspruit uit een overeenkomst die de schuldenaar bevoegd was met betrekking tot de zaak aan te gaan, of hij geen reden had om aan de bevoegdheid van de schuldenaar te twijfelen.
+
+3.	De schuldeiser kan het retentierecht niet inroepen tegen de minister van Onderwijs, Cultuur en Wetenschap die op grond van artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied een rechtsvordering instelt.
 
 Artikel 292
 
