@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 15-10-2008 t/m 30-06-2009
+Geldend van 01-07-2009 t/m 19-01-2012
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -719,17 +719,41 @@ Artikel 86a
 
 4.	De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de artikelen 120 en 121. Zij wordt bij afgifte van de zaak uitgekeerd.
 
+Artikel 86b
+
+1.	Artikel 86 kan niet worden tegengeworpen aan een verdragsstaat van de op 14 november 1970 te Parijs tot stand gekomen Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen, noch aan de rechthebbende, indien zij op grond van artikel 4 van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen een rechtsvordering als bedoeld in artikel 1011a van het Wetboek van Burgerlijke Rechtsvordering tot teruggave van een roerende zaak als bedoeld in dat artikel instellen.
+
+2.	De rechter die een vordering als bedoeld in het voorgaande lid toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht, tenzij opeising zonder vergoeding bij toepasselijkheid van artikel 86 lid 3 mogelijk zou zijn geweest.
+
+3.	De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de artikelen 120 en 121. Zij wordt bij afgifte van de zaak uitgekeerd.
+
 Artikel 87
 
-1.	Een verkrijger die binnen drie jaren na zijn verkrijging gevraagd wordt wie het goed aan hem vervreemdde, dient onverwijld de gegevens te verschaffen, die nodig zijn om deze terug te vinden of die hij ten tijde van zijn verkrijging daartoe voldoende mocht achten. Indien hij niet aan deze verplichting voldoet, kan hij de bescherming die de artikelen 86 en 86a aan een verkrijger te goeder trouw bieden, niet inroepen.
+1.	Een verkrijger die binnen drie jaren na zijn verkrijging gevraagd wordt wie het goed aan hem vervreemdde, dient onverwijld de gegevens te verschaffen, die nodig zijn om deze terug te vinden of die hij ten tijde van zijn verkrijging daartoe voldoende mocht achten. Indien hij niet aan deze verplichting voldoet, kan hij de bescherming die de artikelen 86, 86a en 86b aan een verkrijger te goeder trouw bieden, niet inroepen.
 
 2.	Het vorige lid is niet van toepassing ten aanzien van geld.
+
+Artikel 87a
+
+1.	Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 1 onder d van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen, de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, met name
+	a.	de hoedanigheid van de partijen;
+	b.	de betaalde prijs;
+	c.	het feit of de bezitter elk redelijkerwijs toegankelijk register met betrekking tot gestolen cultuurgoederen en elke andere relevante informatie en documentatie die hij redelijkerwijs zou kunnen hebben verkregen, heeft geraadpleegd, en het feit of de bezitter toegankelijke instanties heeft geraadpleegd;
+	d.	het feit of de bezitter alle andere stappen heeft genomen die een redelijk handelende persoon in die omstandigheden zou hebben genomen.
+
+2.	Een handelaar als bedoeld in artikel 437 van het Wetboek van Strafrecht heeft niet de volgens artikel 86b lid 2 bij de verkrijging van een cultuurgoed nodige zorgvuldigheid betracht, indien hij heeft nagelaten
+	a.	zich te vergewissen van de identiteit van de verkoper
+	b.	van de verkoper een schriftelijke verklaring te verlangen dat hij bevoegd is over de zaak te beschikken;
+	c.	in het door hem bij te houden register de oorsprong van het cultuurgoed, de namen en het adres van de verkoper, de aan de verkoper betaalde koopprijs en een beschrijving van het cultuurgoed op te nemen;
+	d.	de registers met betrekking tot gestolen cultuurgoederen te raadplegen die in de gegeven omstandigheden in verband met de aard van de cultuurgoederen voor raadpleging in aanmerking komen.
+
+3.	Een veilinghouder die bij het aannemen van een cultuurgoed ter openbare verkoop niet aan de in de leden 1 en 2 bedoelde zorgvuldigheidseisen voldoet dan wel dit cultuurgoed aan degene die het ter openbare verkoop aanbood, teruggeeft zonder aan deze zorgvuldigheidseisen te hebben voldaan, handelt onrechtmatig jegens degenen die een vordering tot teruggave als bedoeld in artikel 86b kunnen instellen.
 
 Artikel 88
 
 1.	Ondanks onbevoegdheid van de vervreemder is een overdracht van een registergoed, van een recht op naam, of van een ander goed waarop artikel 86 niet van toepassing is, geldig, indien de verkrijger te goeder trouw is en de onbevoegdheid voortvloeit uit de ongeldigheid van een vroegere overdracht, die niet het gevolg was van onbevoegdheid van de toenmalige vervreemder.
 
-2.	Lid 1 geldt niet voor roerende zaken die krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp zijn aangewezen voor zover de overdracht ongeldig is als gevolg van het bepaalde in artikel 7 van die wet.
+2.	Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de artikelen 86a leden 1 en 2 en 86b lid 1.
 
 Artikel 89
 
@@ -802,6 +826,8 @@ Artikel 99
 1.	Rechten op roerende zaken die niet-registergoederen zijn, en rechten aan toonder of order worden door een bezitter te goeder trouw verkregen door een onafgebroken bezit van drie jaren, andere goederen door een onafgebroken bezit van tien jaren.
 
 2.	Lid 1 geldt niet voor roerende zaken die krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp zijn aangewezen of deel uitmaken van een openbare collectie of van een inventarislijst als bedoeld in artikel 14a, tweede lid, van die wet, mits het bezit na die aanwijzing of gedurende dit deel uitmaken is begonnen.
+
+3.	Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de artikelen 86a lid 1 en 86b lid 1.
 
 Artikel 100
 
@@ -1439,7 +1465,7 @@ Artikel 238
 
 3.	Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan zijn lid 3, aanhef en onder b, en lid 4 van artikel 86 van overeenkomstige toepassing.
 
-4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a, leden 1 en 2, of volgens artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
+4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a, leden 1 en 2 of artikel 86b lid 1, of volgens artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
 
 Artikel 239
 
@@ -1941,7 +1967,7 @@ Artikel 310
 
 3.	Voor de toepassing van lid 2 wordt onder gebeurtenis verstaan een plotseling optredend feit, een voortdurend feit of een opeenvolging van feiten met dezelfde oorzaak. Bestaat de gebeurtenis uit een voortdurend feit, dan begint de termijn van dertig jaren bedoeld in lid 2 te lopen nadat dit feit is opgehouden te bestaan. Bestaat de gebeurtenis uit een opeenvolging van feiten met dezelfde oorzaak, dan begint deze termijn te lopen na dit laatste feit.
 
-4.	Indien de gebeurtenis waardoor de schade is veroorzaakt, een misdrijf oplevert als bedoeld in de artikelen 240b, 242 tot en met 250 en 273f van het Wetboek van Strafrecht en is gepleegd ten aanzien van een minderjarige, verjaart de rechtsvordering tot vergoeding van schade tegen de schuldige aan het misdrijf niet zolang het recht tot strafvordering niet door verjaring is vervallen.
+4.	Indien de gebeurtenis waardoor de schade is veroorzaakt, een misdrijf oplevert als bedoeld in de artikelen 240b, 242 tot en met 250 en 273f dan wel 300 tot en met 303 van het Wetboek van Strafrecht voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht, en is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart de rechtsvordering tot vergoeding van schade tegen de schuldige aan het misdrijf niet zolang het recht tot strafvordering niet door verjaring is vervallen.
 
 5.	In afwijking van de leden 1 en 2 verjaart een rechtsvordering tot vergoeding van schade door letsel of overlijden slechts door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de benadeelde zowel met de schade als met de daarvoor aansprakelijke persoon bekend is geworden. Indien de benadeelde minderjarig was op de dag waarop de schade en de daarvoor aansprakelijke persoon bekend zijn geworden, verjaart de rechtsvordering slechts door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de benadeelde meerderjarig is geworden.
 
@@ -1956,6 +1982,12 @@ Artikel 310b
 1.	Een rechtsvordering tot opeising van een roerende zaak die krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp is aangewezen of deel uitmaakt van een openbare collectie of van een inventarislijst als bedoeld in artikel 14a, tweede lid, van die wet en die na die aanwijzing of gedurende dit deel uitmaken uit het bezit van de eigenaar is geraakt, verjaart door verloop van vijf jaren na de aanvang van de dag waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag waarop een niet-rechthebbende bezitter van de zaak is geworden.
 
 2.	De verjaring krachtens lid 1 treedt in elk geval niet in voordat de rechtsvordering tot teruggave van de zaak is verjaard, die de Staat voor de rechter van een andere lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte kan instellen op grond dat de zaak op onrechtmatige wijze buiten het grondgebied van Nederland is gebracht.
+
+Artikel 310c
+
+1.	Een rechtsvordering tot teruggave van een roerende zaak op grond van artikel 4 van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen verjaart door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied is gebracht van de verdragsstaat waaruit de zaak afkomstig is.
+
+2.	De laatste termijn bedraagt vijfenzeventig jaren in geval van zaken die deel uitmaken van openbare collecties, die vermeld staan in de inventarissen van musea, archieven en vaste collecties van bibliotheken of van de inventaris van een kerkelijke instelling. Onder openbare collecties wordt in dit lid verstaan een collectie die eigendom is van een verdragsstaat, een lokale of regionale overheid van een verdragsstaat of een instelling op het grondgebied van een verdragsstaat die overeenkomstig de wetgeving van die verdragsstaat als openbaar wordt aangemerkt en die eigendom is van of in grote mate wordt gefinancierd door die verdragsstaat of een lokale of regionale overheid van die staat.
 
 Artikel 311
 
