@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-10-2012 t/m 31-12-2012
+Geldend van 01-01-2013 t/m 31-03-2013
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -22,7 +22,9 @@ Zaken zijn de voor menselijke beheersing vatbare stoffelijke objecten.
 
 Artikel 2a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Dieren zijn geen zaken.
+
+2.	Bepalingen met betrekking tot zaken zijn op dieren van toepassing, met in achtneming van de op wettelijke voorschriften en regels van ongeschreven recht gegronde beperkingen, verplichtingen en rechtsbeginselen, alsmede de openbare orde en de goede zeden.
 
 Artikel 3
 
@@ -1928,7 +1930,7 @@ Artikel 305c
 
 Artikel 305d
 
-1.	Het gerechtshof te ’s-Gravenhage kan op verzoek van:
+1.	Het gerechtshof Den Haag kan op verzoek van:
 	a.	de Consumentenautoriteit;
 	b.	de Stichting Autoriteit Financiële Markten, of
 	c.	een stichting of vereniging met volledige rechtsbevoegdheid, die krachtens haar statuten tot taak heeft de bescherming van gelijksoortige belangen van andere personen,
@@ -1943,7 +1945,7 @@ bevelen dat degene die een overtreding als bedoeld in artikel 1.1 onder k van de
 
 5.	Het gerechtshof behandelt het verzoek onverwijld.
 
-6.	Geschillen ter zake van de tenuitvoerlegging van de in de leden 1, 2 en 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof te ’s-Gravenhage beslist.
+6.	Geschillen ter zake van de tenuitvoerlegging van de in de leden 1, 2 en 3 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
 
 Artikel 306
 
