@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2013 t/m 30-06-2013
+Geldend van 01-07-2013 t/m 31-12-2013
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -1906,13 +1906,15 @@ Artikel 305a
 
 1.	Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voorzover zij deze belangen ingevolge haar statuten behartigt.
 
-2.	Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de gedaagde te bereiken. Een termijn van twee weken na de ontvangst door de gedaagde van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende.
+2.	Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de gedaagde te bereiken. Een termijn van twee weken na de ontvangst door de gedaagde van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende. Een rechtspersoon als bedoeld in lid 1 is eveneens niet ontvankelijk, indien met de rechtsvordering de belangen van de personen ten behoeve van wie de rechtsvordering is ingesteld onvoldoende gewaarborgd zijn.
 
 3.	Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de gedaagde tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen. Zij kan niet strekken tot schadevergoeding te voldoen in geld.
 
 4.	Een gedraging kan niet ten grondslag worden gelegd aan een rechtsvordering als bedoeld in lid 1, voor zover degene die door deze gedraging wordt getroffen, daartegen bezwaar maakt.
 
 5.	Een rechterlijke uitspraak heeft geen gevolg ten aanzien van een persoon tot bescherming van wiens belang de rechtsvordering strekt en die zich verzet tegen werking van de uitspraak ten opzichte van hem, tenzij de aard van de uitspraak meebrengt dat de werking niet slechts ten opzichte van deze persoon kan worden uitgesloten.
+
+6.	Indien in zaken als bedoeld in lid 1 ingevolge artikel 220 van het Wetboek van Burgerlijke Rechtsvordering verwijzing naar een andere rechter kan worden gevorderd, kan de rechter ook ambtshalve naar die andere rechter verwijzen. Indien in zaken als bedoeld in lid 1 ingevolge artikel 222 van het Wetboek van Burgerlijke Rechtsvordering voeging van deze zaken kan worden gevorderd, kan de rechter ook ambtshalve voegen. Ambtshalve verwijzing of voeging kan niet meer plaatsvinden nadat de dag van de uitspraak is bepaald. Artikel 221 van het Wetboek van Burgerlijke Rechtsvordering is op een ambtshalve verwijzing van toepassing.
 
 Artikel 305b
 
