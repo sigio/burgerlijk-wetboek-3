@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2013 t/m 31-12-2013
+Geldend van 01-01-2014 t/m 31-07-2014
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -258,7 +258,7 @@ Artikel 24
 
 2.	Het eerste lid is niet van toepassing ten aanzien van:
 	a.	feiten die naar hun aard vatbaar zijn voor inschrijving in een register van de burgerlijke stand, een huwelijksgoederenregister of een boedelregister, ook indien het feit in een gegeven geval daarin niet kan worden ingeschreven, omdat daarop de Nederlandse wet niet van toepassing is;
-	b.	in het curateleregister ingeschreven ondercuratelestelling en opheffing van curatele;
+	b.	in het curatele- en bewindregister ingeschreven ondercuratelestelling en opheffing van curatele;
 	c.	in het faillissementsregister, het surséanceregister en het register schuldsaneringsregeling natuurlijke personen ingeschreven rechterlijke uitspraken;
 	d.	aanvaarding en verwerping van een nalatenschap;
 	e.	verjaring.
