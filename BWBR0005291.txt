@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 26-11-2015 t/m 30-06-2016
+Geldend van 01-07-2016 t/m 31-12-2016
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -719,7 +719,7 @@ Artikel 86a
 
 1.	Artikel 86 kan niet worden tegengeworpen aan een lid-staat van de Europese Unie of aan een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die een roerende zaak opeist, die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 2, onder 1, van Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.
 
-2.	Artikel 86 kan evenmin worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp was aangewezen of waarvan het buiten Nederland brengen op grond van artikel 14a van die wet verboden is. Degene die toen op de lijst waarop het beschermde voorwerp was geplaatst of op een inventarislijst, bedoeld in artikel 14a, tweede lid, van die wet, als eigenaar werd vermeld, wordt vermoed toen eigenaar van de zaak geweest te zijn.
+2.	Artikel 86 kan evenmin worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, krachtens de Erfgoedwet als beschermd cultuurgoed was aangewezen of waarvan het buiten Nederland brengen op grond van artikel 4.22 van die wet verboden is. Degene die toen in het register, bedoeld in artikel 3.11 van die wet of op een inventarislijst, bedoeld in artikel 4.22, tweede lid, van die wet, als eigenaar werd vermeld, wordt vermoed toen eigenaar van de zaak geweest te zijn.
 
 3.	De rechter die een vordering als bedoeld in lid 1 toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht. Hetzelfde geldt indien de rechter een vordering als bedoeld in lid 2 toewijst, tenzij opeising zonder vergoeding bij toepasselijkheid van artikel 86 lid 3 mogelijk zou zijn geweest.
 
@@ -727,7 +727,7 @@ Artikel 86a
 
 Artikel 86b
 
-1.	Artikel 86 kan niet worden tegengeworpen aan een verdragsstaat van de op 14 november 1970 te Parijs tot stand gekomen Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen, noch aan de rechthebbende, indien zij op grond van artikel 4 van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen een rechtsvordering als bedoeld in artikel 1011a van het Wetboek van Burgerlijke Rechtsvordering tot teruggave van een roerende zaak als bedoeld in dat artikel instellen.
+1.	Artikel 86 kan niet worden tegengeworpen aan een verdragsstaat van de op 14 november 1970 te Parijs tot stand gekomen Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen, noch aan de rechthebbende, indien zij op grond van artikel 6.7 van de Erfgoedwet een rechtsvordering als bedoeld in artikel 1011a van het Wetboek van Burgerlijke Rechtsvordering tot teruggave van een roerende zaak als bedoeld in dat artikel instellen.
 
 2.	De rechter die een vordering als bedoeld in het voorgaande lid toewijst, kent aan de bezitter een naar gelang van de omstandigheden vast te stellen billijke vergoeding toe, indien deze bij de verkrijging van de zaak de nodige zorgvuldigheid heeft betracht, tenzij opeising zonder vergoeding bij toepasselijkheid van artikel 86 lid 3 mogelijk zou zijn geweest.
 
@@ -741,7 +741,7 @@ Artikel 87
 
 Artikel 87a
 
-1.	Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 86a lid 1 of in artikel 1 onder d van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
+1.	Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 86a lid 1 of in artikel 6.1, onder c, van de Erfgoedwet de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
 	a.	de documentatie over de herkomst van het goed;
 	b.	de volgens het recht van de verzoekende lidstaat dan wel het recht van de verdragsstaat waaruit het goed afkomstig is, vereiste vergunningen om het goed buiten het grondgebied van die lidstaat of die verdragsstaat te brengen;
 	c.	de hoedanigheid van de partijen;
@@ -833,7 +833,7 @@ Artikel 99
 
 1.	Rechten op roerende zaken die niet-registergoederen zijn, en rechten aan toonder of order worden door een bezitter te goeder trouw verkregen door een onafgebroken bezit van drie jaren, andere goederen door een onafgebroken bezit van tien jaren.
 
-2.	Lid 1 geldt niet voor roerende zaken die krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp zijn aangewezen of deel uitmaken van een openbare collectie of van een inventarislijst als bedoeld in artikel 14a, tweede lid, van die wet, mits het bezit na die aanwijzing of gedurende dit deel uitmaken is begonnen.
+2.	Lid 1 geldt niet voor roerende zaken die krachtens de Erfgoedwet als beschermd cultuurgoed zijn aangewezen of deel uitmaken van een openbare collectie of van een inventarislijst als bedoeld in artikel 4.22, tweede lid, van die wet, mits het bezit na die aanwijzing of gedurende dit deel uitmaken is begonnen.
 
 3.	Lid 1 kan niet worden tegengeworpen aan vorderingen als bedoeld in de artikelen 86a lid 1 en 86b lid 1.
 
@@ -1473,7 +1473,7 @@ Artikel 238
 
 3.	Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan zijn lid 3, aanhef en onder b, en lid 4 van artikel 86 van overeenkomstige toepassing.
 
-4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a, leden 1 en 2 of artikel 86b lid 1, of volgens artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
+4.	Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a, leden 1 en 2 of artikel 86b lid 1, of volgens artikel 6.15 van de Erfgoedwet ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.
 
 Artikel 239
 
@@ -1851,7 +1851,7 @@ Artikel 291
 
 2.	Hij kan het retentierecht ook inroepen tegen derden met een ouder recht, indien zijn vordering voortspruit uit een overeenkomst die de schuldenaar bevoegd was met betrekking tot de zaak aan te gaan, of hij geen reden had om aan de bevoegdheid van de schuldenaar te twijfelen.
 
-3.	De schuldeiser kan het retentierecht niet inroepen tegen de minister van Onderwijs, Cultuur en Wetenschap die op grond van artikel 7 van de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied een rechtsvordering instelt.
+3.	De schuldeiser kan het retentierecht niet inroepen tegen de minister van Onderwijs, Cultuur en Wetenschap die op grond van artikel 6.15 van de Erfgoedwet een rechtsvordering instelt.
 
 Artikel 292
 
@@ -2004,13 +2004,13 @@ Artikel 310a
 
 Artikel 310b
 
-1.	Een rechtsvordering tot opeising van een roerende zaak die krachtens de Wet tot behoud van cultuurbezit als beschermd voorwerp is aangewezen of deel uitmaakt van een openbare collectie of van een inventarislijst als bedoeld in artikel 14a, tweede lid, van die wet en die na die aanwijzing of gedurende dit deel uitmaken uit het bezit van de eigenaar is geraakt, verjaart door verloop van vijf jaren na de aanvang van de dag waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag waarop een niet-rechthebbende bezitter van de zaak is geworden.
+1.	Een rechtsvordering tot opeising van een roerende zaak die krachtens de Erfgoedwet als beschermd cultuurgoed is aangewezen of deel uitmaakt van een openbare collectie of van een inventarislijst als bedoeld in artikel 4.22, tweede lid, van die wet en die na die aanwijzing of gedurende dit deel uitmaken uit het bezit van de eigenaar is geraakt, verjaart door verloop van vijf jaren na de aanvang van de dag waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag waarop een niet-rechthebbende bezitter van de zaak is geworden.
 
 2.	De verjaring krachtens lid 1 treedt in elk geval niet in voordat de rechtsvordering tot teruggave van de zaak is verjaard, die de Staat voor de rechter van een andere lid-staat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte kan instellen op grond dat de zaak op onrechtmatige wijze buiten het grondgebied van Nederland is gebracht.
 
 Artikel 310c
 
-1.	Een rechtsvordering tot teruggave van een roerende zaak op grond van artikel 4 van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen verjaart door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied is gebracht van de verdragsstaat waaruit de zaak afkomstig is.
+1.	Een rechtsvordering tot teruggave van een roerende zaak op grond van artikel 6.7 van de Erfgoedwet verjaart door verloop van vijf jaren na de aanvang van de dag volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of de houder zijn bekend geworden, en in elk geval door verloop van dertig jaren na de aanvang van de dag volgende op die waarop de zaak buiten het grondgebied is gebracht van de verdragsstaat waaruit de zaak afkomstig is.
 
 2.	De laatste termijn bedraagt vijfenzeventig jaren in geval van zaken die deel uitmaken van openbare collecties, die vermeld staan in de inventarissen van musea, archieven en vaste collecties van bibliotheken of van de inventaris van een kerkelijke instelling. Onder openbare collecties wordt in dit lid verstaan een collectie die eigendom is van een verdragsstaat, een lokale of regionale overheid van een verdragsstaat of een instelling op het grondgebied van een verdragsstaat die overeenkomstig de wetgeving van die verdragsstaat als openbaar wordt aangemerkt en die eigendom is van of in grote mate wordt gefinancierd door die verdragsstaat of een lokale of regionale overheid van die staat.
 
