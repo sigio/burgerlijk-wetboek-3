@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2016 t/m 31-12-2016
+Geldend van 01-01-2017 t/m 09-03-2017
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -103,23 +103,23 @@ Artikel 15a
 	b.	zij maakt het mogelijk de ondertekenaar te identificeren;
 	c.	zij komt tot stand met middelen die de ondertekenaar onder zijn uitsluitende controle kan houden; en
 	d.	zij is op zodanige wijze aan het elektronisch bestand waarop zij betrekking heeft verbonden, dat elke wijziging achteraf van de gegevens kan worden opgespoord;
-	e.	zij is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel ss, van de Telecommunicatiewet; en
-	f.	zij is gegenereerd door een veilig middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1, onderdeel vv, van de Telecommunicatiewet.
+	e.	zij is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1 van de Telecommunicatiewet; en
+	f.	zij is gegenereerd door een veilig middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1 van de Telecommunicatiewet.
 
 3.	Een in lid 1 bedoelde methode kan niet als onvoldoende betrouwbaar worden aangemerkt op de enkele grond dat deze:
-	-	niet is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel ss, van de Telecommunicatiewet;
+	-	niet is gebaseerd op een gekwalificeerd certificaat als bedoeld in artikel 1.1 van de Telecommunicatiewet;
 	-	niet is gebaseerd op een door een certificatiedienstverlener als bedoeld in artikel 18.16, eerste lid, Telecommunicatiewet afgegeven certificaat; of
-	-	niet met een veilig middel voor het aanmaken van elektronische handtekeningen is aangemaakt als bedoeld in artikel 1.1, onderdeel vv, van de Telecommunicatiewet.
+	-	niet met een veilig middel voor het aanmaken van elektronische handtekeningen is aangemaakt als bedoeld in artikel 1.1 van de Telecommunicatiewet.
 
 4.	Onder elektronische handtekening wordt een handtekening verstaan die bestaat uit elektronische gegevens die zijn vastgehecht aan of logisch geassocieerd zijn met andere elektronische gegevens en die worden gebruikt als middel voor authentificatie.
 
-5.	Onder ondertekenaar wordt degene verstaan die een middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1, onderdeel uu, van de Telecommunicatiewet gebruikt.
+5.	Onder ondertekenaar wordt degene verstaan die een middel voor het aanmaken van elektronische handtekeningen als bedoeld in artikel 1.1 van de Telecommunicatiewet gebruikt.
 
 6.	Tussen partijen kan van lid 2 en 3 worden afgeweken.
 
 Artikel 15b
 
-Een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel ss, van de Telecommunicatiewet, afgegeven aan het publiek door een certificatiedienstverlener gevestigd in een derde land, heeft dezelfde geldigheid als een gekwalificeerd certificaat afgegeven door een in de Europese Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde certificatiedienstverlener, indien:
+Een gekwalificeerd certificaat als bedoeld in artikel 1.1 van de Telecommunicatiewet, afgegeven aan het publiek door een certificatiedienstverlener gevestigd in een derde land, heeft dezelfde geldigheid als een gekwalificeerd certificaat afgegeven door een in de Europese Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde certificatiedienstverlener, indien:
 	a.	de certificatiedienstverlener voldoet aan de in richtlijn nr. 99/93/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG L 13) gestelde eisen en beschikt over een in het kader van een in een lidstaat van de Europese Gemeenschap Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte afgegeven bewijs van toetsing als bedoeld in artikel 18.16, eerste lid Telecommunicatiewet, dan wel
 	b.	een in de Europese Gemeenschap of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte gevestigde certificatiedienstverlener die voldoet aan de eisen van richtlijn nr. 99/93/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG L 13) voor dat certificaat instaat, dan wel
 	c.	het certificaat of de certificatiedienstverlener is erkend in het kader van een bilaterale of multilaterale overeenkomst tussen de Europese Gemeenschap dan wel een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en derde landen of internationale organisaties.
@@ -1786,7 +1786,9 @@ Artikel 281
 
 Artikel 282
 
-Indien door een executie een ander beperkt recht dan pand of hypotheek vervalt, omdat het niet kan worden ingeroepen tegen een pand- of hypotheekhouder of een beslaglegger op het goed, wordt aan de beperkt gerechtigde uit de netto-opbrengst van het goed, met voorrang onmiddellijk na de vorderingen van degenen tegen wie hij zijn recht niet kan inroepen, terzake van zijn schade een vergoeding uitgekeerd. De vergoeding wordt gesteld op het bedrag van de waarde die het vervallen recht, zo het bij de executie in stand zou zijn gebleven, ten tijde van de executie zou hebben gehad.
+1.	Indien door een executie een ander beperkt recht dan pand of hypotheek vervalt, omdat het niet kan worden ingeroepen tegen een pand- of hypotheekhouder of een beslaglegger op het goed, wordt aan de beperkt gerechtigde uit de netto-opbrengst van het goed, met voorrang onmiddellijk na de vorderingen van degenen tegen wie hij zijn recht niet kan inroepen, terzake van zijn schade een vergoeding uitgekeerd. De vergoeding wordt gesteld op het bedrag van de waarde die het vervallen recht, zo het bij de executie in stand zou zijn gebleven, ten tijde van de executie zou hebben gehad.
+
+2.	Indien in geval van executie een huurkoper van een onroerende zaak of een bestanddeel daarvan of een recht op die zaak niet kan inroepen tegen een hypotheekhouder of beslaglegger, wordt aan de huurkoper uit de netto-opbrengst van het goed, met voorrang onmiddellijk na de vorderingen van degenen tegen wie hij zijn recht niet kan inroepen, een vergoeding uitgekeerd ten bedrage van de schade die hij door de executie lijdt.
 
 Afdeling 2. Bevoorrechte vorderingen op bepaalde goederen
 
