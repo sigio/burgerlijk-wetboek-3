@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 10-03-2017 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 18-09-2018
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -177,7 +177,7 @@ Artikel 17
 	c.	vervulling van de voorwaarde, gesteld in een ingeschreven voorwaardelijke rechtshandeling, en de verschijning van een onzeker tijdstip, aangeduid in de aan een ingeschreven rechtshandeling verbonden tijdsbepaling, alsmede de dood van een vruchtgebruiker van een registergoed;
 	d.	reglementen en andere regelingen die tussen medegerechtigden in registergoederen zijn vastgesteld;
 	e.	rechterlijke uitspraken die de rechtstoestand van registergoederen of de bevoegdheid daarover te beschikken betreffen, mits zij uitvoerbaar bij voorraad zijn of een verklaring van de griffier wordt overgelegd, dat daartegen geen gewoon rechtsmiddel meer openstaat of dat hem drie maanden na de uitspraak niet van het instellen van een gewoon rechtsmiddel is gebleken, benevens de tegen de bovenbedoelde uitspraken ingestelde rechtsmiddelen;
-	f.	instelling van rechtsvorderingen en indiening van verzoekschriften ter verkrijging van een rechterlijke uitspraak die de rechtstoestand van een registergoed betreft;
+	f.	instelling van rechtsvorderingen en indiening van verzoeken ter verkrijging van een rechterlijke uitspraak die de rechtstoestand van een registergoed betreft;
 	g.	executoriale en conservatoire beslagen op registergoederen;
 	h.	naamsveranderingen die tot registergoederen gerechtigde personen betreffen;
 	i.	verjaring die leidt tot verkrijging van een registergoed of tenietgaan van een beperkt recht dat een registergoed is;
@@ -261,7 +261,7 @@ Artikel 27
 
 Op de onjuistheid kan echter geen beroep worden gedaan ten nadele van hen die, daarmee onbekend, de verkrijger van het vonnis onder bijzondere titel zijn opgevolgd.
 
-4.	Een openbare oproeping als bedoeld in lid 1 geschiedt overeenkomstig artikel 54, tweede en derde lid van het Wetboek van Burgerlijke Rechtsvordering. Een openbaar exploit als bedoeld in lid 2 geschiedt op dezelfde wijze, tenzij de rechter nadere maatregelen voorschrijft als bedoeld in lid 1. De in lid 1 bedoelde maatregelen kunnen bestaan in het voorschrijven van al of niet herhaalde aankondigingen van een door de rechter vast te stellen inhoud in één of meer binnen- of buitenlandse dagbladen.
+4.	Een openbare oproeping als bedoeld in lid 1 geschiedt overeenkomstig artikel 54, tweede en derde lid van het Wetboek van Burgerlijke Rechtsvordering. Een openbaar exploot als bedoeld in lid 2 geschiedt op dezelfde wijze, tenzij de rechter nadere maatregelen voorschrijft als bedoeld in lid 1. De in lid 1 bedoelde maatregelen kunnen bestaan in het voorschrijven van al of niet herhaalde aankondigingen van een door de rechter vast te stellen inhoud in één of meer binnen- of buitenlandse dagbladen.
 
 Artikel 28
 
@@ -275,7 +275,7 @@ Artikel 29
 
 2.	Alvorens een zodanige verklaring uit te spreken kan de rechter de maatregelen bevelen en de bewijsopdrachten doen, welke hij in het belang van mogelijk niet-verschenen rechthebbenden nuttig oordeelt.
 
-3.	Verzet, hoger beroep en cassatie moeten op straffe van niet- ontvankelijkheid binnen acht dagen na het instellen van het rechtsmiddel worden ingeschreven in de registers, bedoeld in artikel 433 van het Wetboek van Burgerlijke Rechtsvordering. Zo voor een ingeschreven gedaagde geen verzet, maar hoger beroep openstaat, geldt hetzelfde voor zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. In afwijking van artikel 143 van dat wetboek begint de termijn van verzet in elk geval te lopen vanaf de betekening van het vonnis aan de ingeschreven gedaagde, ook als de betekening niet aan hem in persoon geschiedt, zulks mede ten opzichte van zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan. Cassatie staat alleen open voor verschenen belanghebbenden.
+3.	Verzet, hoger beroep en cassatie moeten op straffe van niet- ontvankelijkheid binnen acht dagen na het instellen van het rechtsmiddel worden ingeschreven in de registers, bedoeld in artikel 433 van het Wetboek van Burgerlijke Rechtsvordering. Zo voor een ingeschreven verweerder geen verzet, maar hoger beroep openstaat, geldt hetzelfde voor zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen. In afwijking van artikel 143 van dat wetboek begint de termijn van verzet in elk geval te lopen vanaf de betekening van het vonnis aan de ingeschreven verweerder, ook als de betekening niet aan hem in persoon geschiedt, zulks mede ten opzichte van zijn rechtverkrijgenden die geen nieuwe inschrijving hebben genomen, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan. Cassatie staat alleen open voor verschenen belanghebbenden.
 
 4.	Het vonnis dat de verklaring bevat, kan niet worden ingeschreven, voordat het in kracht van gewijsde is gegaan. Indien de waardeloze inschrijving een hypotheek of beslag betreft, machtigt het vonnis na inschrijving de bewaarder tot doorhaling daarvan.
 
@@ -956,7 +956,7 @@ Artikel 125
 
 1.	Hij die het bezit van een goed heeft verkregen, kan op grond van een daarna ingetreden bezitsverlies of bezitsstoornis tegen derden dezelfde rechtsvorderingen instellen tot terugverkrijging van het goed en tot opheffing van de stoornis, die de rechthebbende op het goed toekomen. Nochtans moeten deze rechtsvorderingen binnen het jaar na het verlies of de stoornis worden ingesteld.
 
-2.	De vordering wordt afgewezen, indien de gedaagde een beter recht dan de eiser heeft tot het houden van het goed of de storende handelingen krachtens een beter recht heeft verricht, tenzij de gedaagde met geweld of op heimelijke wijze aan de eiser het bezit heeft ontnomen of diens bezit heeft gestoord.
+2.	De vordering wordt afgewezen, indien de verweerder een beter recht dan de eiser heeft tot het houden van het goed of de storende handelingen krachtens een beter recht heeft verricht, tenzij de verweerder met geweld of op heimelijke wijze aan de eiser het bezit heeft ontnomen of diens bezit heeft gestoord.
 
 3.	Het in dit artikel bepaalde laat voor de bezitter, ook nadat het in het eerste lid bedoelde jaar is verstreken, en voor de houder onverlet de mogelijkheid een vordering op grond van onrechtmatige daad in te stellen, indien daartoe gronden zijn.
 
@@ -1008,7 +1008,7 @@ Artikel 170
 
 Artikel 171
 
-Tenzij een regeling anders bepaalt, is iedere deelgenoot bevoegd tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter verkrijging van een rechterlijke uitspraak ten behoeve van de gemeenschap. Een regeling die het beheer toekent aan een of meer der deelgenoten, sluit, tenzij zij anders bepaalt, deze bevoegdheid voor de anderen uit.
+Tenzij een regeling anders bepaalt, is iedere deelgenoot bevoegd tot het instellen van rechtsvorderingen en het indienen van verzoeken ter verkrijging van een rechterlijke uitspraak ten behoeve van de gemeenschap. Een regeling die het beheer toekent aan een of meer der deelgenoten, sluit, tenzij zij anders bepaalt, deze bevoegdheid voor de anderen uit.
 
 Artikel 172
 
@@ -1327,7 +1327,7 @@ Artikel 217
 
 Artikel 218
 
-Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter verkrijging van een rechterlijke uitspraak die zowel het recht van de vruchtgebruiker als dat van de hoofdgerechtigde betreft, is ieder van hen bevoegd, mits hij zorg draagt dat de ander tijdig in het geding wordt geroepen.
+Tot het instellen van rechtsvorderingen en het indienen van verzoeken ter verkrijging van een rechterlijke uitspraak die zowel het recht van de vruchtgebruiker als dat van de hoofdgerechtigde betreft, is ieder van hen bevoegd, mits hij zorg draagt dat de ander tijdig in het geding wordt geroepen.
 
 Artikel 219
 
@@ -1877,7 +1877,7 @@ Artikel 300
 
 1.	Is iemand jegens een ander gehouden een rechtshandeling te verrichten, dan kan, tenzij de aard van de rechtshandeling zich hiertegen verzet, de rechter op vordering van de gerechtigde bepalen dat zijn uitspraak dezelfde kracht heeft als een in wettige vorm opgemaakte akte van degene die tot de rechtshandeling gehouden is, of dat een door hem aan te wijzen vertegenwoordiger de handeling zal verrichten. Wijst de rechter een vertegenwoordiger aan, dan kan hij bepalen dat de door deze te verrichten handeling zijn goedkeuring behoeft.
 
-2.	Is de gedaagde gehouden om tezamen met de eiser een akte op te maken, dan kan de rechter bepalen dat zijn uitspraak in de plaats van de akte of een deel daarvan zal treden.
+2.	Is de verweerder gehouden om tezamen met de eiser een akte op te maken, dan kan de rechter bepalen dat zijn uitspraak in de plaats van de akte of een deel daarvan zal treden.
 
 Artikel 301
 
@@ -1909,9 +1909,9 @@ Artikel 305a
 
 1.	Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voorzover zij deze belangen ingevolge haar statuten behartigt.
 
-2.	Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de gedaagde te bereiken. Een termijn van twee weken na de ontvangst door de gedaagde van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende. Een rechtspersoon als bedoeld in lid 1 is eveneens niet ontvankelijk, indien met de rechtsvordering de belangen van de personen ten behoeve van wie de rechtsvordering is ingesteld onvoldoende gewaarborgd zijn.
+2.	Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de verweerder te bereiken. Een termijn van twee weken na de ontvangst door de verweerder van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende. Een rechtspersoon als bedoeld in lid 1 is eveneens niet ontvankelijk, indien met de rechtsvordering de belangen van de personen ten behoeve van wie de rechtsvordering is ingesteld onvoldoende gewaarborgd zijn.
 
-3.	Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de gedaagde tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen. Zij kan niet strekken tot schadevergoeding te voldoen in geld.
+3.	Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de verweerder tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen. Zij kan niet strekken tot schadevergoeding te voldoen in geld.
 
 4.	Een gedraging kan niet ten grondslag worden gelegd aan een rechtsvordering als bedoeld in lid 1, voor zover degene die door deze gedraging wordt getroffen, daartegen bezwaar maakt.
 
