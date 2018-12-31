@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 23-10-2018 t/m 31-12-2018
+Geldend van 01-01-2019 t/m 31-12-2019
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -630,7 +630,7 @@ Artikel 80
 
 1.	Men kan goederen onder algemene en onder bijzondere titel verkrijgen.
 
-2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 309 van Boek 2, door splitsing als bedoeld in artikel 334a van Boek 2, door de goedkeuring van een overdrachtsplan als bedoeld in de artikelen 3:159l, 3:159p en 3:159s van de Wet op het financieel toezicht, en door toepassing van een afwikkelingsinstrument als bedoeld in de artikel 3A:1, onderdelen a, b en c, van die wet.
+2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 309 van Boek 2, door splitsing als bedoeld in artikel 334a van Boek 2 en door toepassing van een afwikkelingsinstrument als bedoeld in de artikelen 3A:1, onderdelen a, b en c, en 3A:77, onderdelen b, c en d, van de Wet op het financieel toezicht.
 
 3.	Men verkrijgt goederen onder bijzondere titel door overdracht, door verjaring en door onteigening, en voorts op de overige in de wet voor iedere soort aangegeven wijzen van rechtsverkrijging.
 
@@ -1660,7 +1660,7 @@ Artikel 267a
 
 2.	De in lid 1 bedoelde verplichtingen gelden vanaf het moment van aanzegging van de executie, als bedoeld in artikel 544 van het Wetboek van Burgerlijke Rechtsvordering.
 
-3.	De hypotheekhouder kan ingeval van weigering de bezichtiging doen plaatsvinden met behulp van de sterke arm.
+3.	De hypotheekhouder kan in geval van weigering de bezichtiging doen plaatsvinden met toepassing van artikel 550 van het Wetboek van Burgerlijke Rechtsvordering.
 
 Artikel 268
 
