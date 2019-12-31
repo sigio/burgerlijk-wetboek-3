@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2019 t/m 31-12-2019
+Geldend van 01-01-2020 t/m 30-06-2021
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -1907,29 +1907,51 @@ De in de voorgaande artikelen van deze titel aan de rechter toegekende bevoegdhe
 
 Artikel 305a
 
-1.	Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voorzover zij deze belangen ingevolge haar statuten behartigt.
+1.	Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voor zover zij deze belangen ingevolge haar statuten behartigt en deze belangen voldoende zijn gewaarborgd.
 
-2.	Een rechtspersoon als bedoeld in lid 1 is niet ontvankelijk, indien hij in de gegeven omstandigheden onvoldoende heeft getracht het gevorderde door het voeren van overleg met de verweerder te bereiken. Een termijn van twee weken na de ontvangst door de verweerder van een verzoek tot overleg onder vermelding van het gevorderde, is daartoe in elk geval voldoende. Een rechtspersoon als bedoeld in lid 1 is eveneens niet ontvankelijk, indien met de rechtsvordering de belangen van de personen ten behoeve van wie de rechtsvordering is ingesteld onvoldoende gewaarborgd zijn.
+2.	De belangen van de personen tot bescherming van wier belangen de rechtsvordering strekt, zijn voldoende gewaarborgd, wanneer de rechtspersoon als bedoeld in lid 1, voldoende representatief is, gelet op de achterban en de omvang van de vertegenwoordigde vorderingen en beschikt over:
+	a.	een toezichthoudend orgaan, tenzij uitvoering is gegeven aan artikel 9a, lid 1, van Boek 2 van het Burgerlijk Wetboek;
+	b.	passende en doeltreffende mechanismen voor de deelname aan of vertegenwoordiging bij de besluitvorming van de personen tot bescherming van wier belangen de rechtsvordering strekt;
+	c.	voldoende middelen om de kosten voor het instellen van een rechtsvordering te dragen, waarbij de zeggenschap over de rechtsvordering in voldoende mate bij de rechtspersoon ligt;
+	d.	een algemeen toegankelijke internetpagina, waarop de volgende informatie beschikbaar is:
+		1°.	de statuten van de rechtspersoon;
+		2°.	de bestuursstructuur van de rechtspersoon;
+		3°.	de laatst vastgestelde jaarlijkse verantwoording op hoofdlijnen van het toezichthoudend orgaan over het door haar uitgevoerde toezicht;
+		4°.	het laatst vastgestelde bestuursverslag;
+		5°.	de bezoldiging van bestuurders en de leden van het toezichthoudend orgaan;
+		6°.	de doelstellingen en werkwijzen van de rechtspersoon;
+		7°.	een overzicht van de stand van zaken in lopende procedures;
+		8°.	indien een bijdrage wordt gevraagd van de personen tot bescherming van wier belangen de rechtsvordering strekt: inzicht in de berekening van deze bijdrage;
+		9°.	een overzicht van de wijze waarop personen tot bescherming van wier belangen de rechtsvordering strekt zich kunnen aansluiten bij de rechtspersoon en de wijze waarop zij deze aansluiting kunnen beëindigen;
+	e.	voldoende ervaring en deskundigheid ten aanzien van het instellen en voeren van de rechtsvordering.
 
-3.	Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de verweerder tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen. Zij kan niet strekken tot schadevergoeding te voldoen in geld.
+3.	Een rechtspersoon als bedoeld in lid 1 is slechts ontvankelijk indien:
+	a.	de bestuurders betrokken bij de oprichting van de rechtspersoon, en hun opvolgers, geen rechtstreeks of middellijk winstoogmerk hebben, dat via de rechtspersoon wordt gerealiseerd;
+	b.	de rechtsvordering een voldoende nauwe band met de Nederlandse rechtssfeer heeft. Van een voldoende nauwe band met de Nederlandse rechtssfeer is sprake, wanneer:
+		1°.	de rechtspersoon genoegzaam aannemelijk maakt dat het merendeel van de personen tot bescherming van wier belangen de rechtsvordering strekt, zijn gewone verblijfplaats in Nederland heeft; of
+		2°.	degene tegen wie de rechtsvordering zich richt, woonplaats in Nederland heeft en bijkomende omstandigheden wijzen op voldoende verbondenheid met de Nederlandse rechtssfeer; of
+		3°.	de gebeurtenis of de gebeurtenissen waarop de rechtsvordering betrekking heeft, in Nederland heeft of hebben plaatsgevonden;
+	c.	de rechtspersoon in de gegeven omstandigheden voldoende heeft getracht het gevorderde door het voeren van overleg met de verweerder te bereiken. Een termijn van twee weken na de ontvangst door de verweerder van een verzoek tot overleg onder vermelding van het gevorderde, is daarvoor in elk geval voldoende.
 
-4.	Een gedraging kan niet ten grondslag worden gelegd aan een rechtsvordering als bedoeld in lid 1, voor zover degene die door deze gedraging wordt getroffen, daartegen bezwaar maakt.
+4.	Een rechtsvordering als bedoeld in lid 1 kan strekken tot veroordeling van de verweerder tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op een door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
 
-5.	Een rechterlijke uitspraak heeft geen gevolg ten aanzien van een persoon tot bescherming van wiens belang de rechtsvordering strekt en die zich verzet tegen werking van de uitspraak ten opzichte van hem, tenzij de aard van de uitspraak meebrengt dat de werking niet slechts ten opzichte van deze persoon kan worden uitgesloten.
+5.	Een rechtspersoon als bedoeld in lid 1 stelt een bestuursverslag en een jaarrekening op overeenkomstig het bepaalde voor verenigingen en stichtingen in respectievelijk de artikelen 49 en 300 en in Titel 9 van Boek 2. Onverminderd het in titel 9 bepaalde, wordt het bestuursverslag binnen acht dagen na vaststelling op de algemene toegankelijke internetpagina van de rechtspersoon gepubliceerd.
 
-6.	Indien in zaken als bedoeld in lid 1 ingevolge artikel 220 van het Wetboek van Burgerlijke Rechtsvordering verwijzing naar een andere rechter kan worden gevorderd, kan de rechter ook ambtshalve naar die andere rechter verwijzen. Indien in zaken als bedoeld in lid 1 ingevolge artikel 222 van het Wetboek van Burgerlijke Rechtsvordering voeging van deze zaken kan worden gevorderd, kan de rechter ook ambtshalve voegen. Ambtshalve verwijzing of voeging kan niet meer plaatsvinden nadat de dag van de uitspraak is bepaald. Artikel 221 van het Wetboek van Burgerlijke Rechtsvordering is op een ambtshalve verwijzing van toepassing.
+6.	De rechter kan een rechtspersoon als bedoeld in lid 1, ontvankelijk verklaren, zonder dat aan de vereisten van lid 2, subonderdelen a tot en met e, en lid 5 behoeft te zijn voldaan, wanneer de rechtsvordering wordt ingesteld met een ideëel doel en een zeer beperkt financieel belang of wanneer de aard van de vordering van de rechtspersoon als bedoeld in lid 1 of van de personen tot bescherming van wier belangen de rechtsvordering strekt, daartoe aanleiding geeft. Bij toepassing van dit lid kan de rechtsvordering niet strekken tot schadevergoeding in geld.
+
+7.	Er is een centraal register voor collectieve vorderingen als bedoeld in dit artikel. Dit register wordt gehouden door een bij algemene maatregel van bestuur aan te wijzen instantie.
 
 Artikel 305b
 
 1.	Een rechtspersoon als bedoeld in artikel 1 van Boek 2 kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voor zover hem de behartiging van deze belangen is toevertrouwd.
 
-2.	De leden 2 tot en met 5 van artikel 305a van dit Boek zijn van overeenkomstige toepassing.
+2.	De leden 3, aanhef en onderdeel c, en 4 van artikel 305a zijn van overeenkomstige toepassing.
 
 Artikel 305c
 
 1.	Een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 4 lid 3 van richtlijn nr. 2009/22/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende het doen staken van inbreuken in het raam van de bescherming van de consumentenbelangen (PbEG L 110), kan een rechtsvordering instellen die strekt tot bescherming van de gelijksoortige belangen van andere personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, voorzover de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
 
-2.	De leden 2 tot en met 5 van artikel 305a zijn van overeenkomstige toepassing.
+2.	De leden 2 tot en met 7 van artikel 305a zijn van overeenkomstige toepassing.
 
 3.	Een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland die ingevolge haar statuten de belangen behartigt van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten, kan, teneinde geplaatst te worden op de lijst, bedoeld in lid 1, Onze Minister van Justitie verzoeken de Commissie van de Europese Gemeenschappen mede te delen dat zij ter bescherming van deze belangen een rechtsvordering kan instellen. Onze Minister deelt in dat geval de Commissie tevens de naam en de doelstelling van de stichting of vereniging mee.
 
@@ -1940,7 +1962,7 @@ Artikel 305d
 	b.	bevelen dat een gedragscode die een handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert door de houder van die gedragscode, bedoeld in artikel 193a, onder i, van Boek 6, wordt aangepast;
 	c.	de houder van de gedragscode die het handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert, veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de onderdelen a en b. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g van Boek 6, kan het gerechtshof op verzoek van de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.
 
-2.	Artikel 305a lid 2 is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
+2.	Artikel 305a lid 3, onderdeel (c), is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
 
 3.	Het gerechtshof behandelt het verzoek onverwijld.
 
