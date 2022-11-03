@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2021 t/m 03-11-2022
+Geldend van 04-11-2022 t/m 24-06-2023
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -630,7 +630,7 @@ Artikel 80
 
 1.	Men kan goederen onder algemene en onder bijzondere titel verkrijgen.
 
-2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 309 van Boek 2, door splitsing als bedoeld in artikel 334a van Boek 2 en door toepassing van een afwikkelingsinstrument als bedoeld in de artikelen 3A:1, onderdelen a, b en c, en 3A:77, onderdelen b, c en d, van de Wet op het financieel toezicht.
+2.	Men verkrijgt goederen onder algemene titel door erfopvolging, door boedelmenging, door fusie als bedoeld in artikel 309 van Boek 2, door splitsing als bedoeld in artikel 334a van Boek 2, door een besluit tot overgang als bedoeld in artikel 3A:21, eerste lid, onderdeel b, en door toepassing van een afwikkelingsinstrument als bedoeld in de artikelen 3A:1, onderdelen a, b en c, en 3A:77, onderdelen b, c en d, van de Wet op het financieel toezicht of artikel 27, eerste lid, van de verordening herstel en afwikkeling centrale tegenpartijen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 3.	Men verkrijgt goederen onder bijzondere titel door overdracht, door verjaring en door onteigening, en voorts op de overige in de wet voor iedere soort aangegeven wijzen van rechtsverkrijging.
 
@@ -1967,6 +1967,10 @@ Artikel 305d
 3.	Het gerechtshof behandelt het verzoek onverwijld.
 
 4.	Geschillen ter zake van de tenuitvoerlegging van de in lid 1 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
+
+Artikel 305e
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 306
 
