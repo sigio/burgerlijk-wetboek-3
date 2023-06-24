@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 3
 Geraadpleegd op 06-08-2023.
-Geldend van 04-11-2022 t/m 24-06-2023
+Geldend van 25-06-2023 t/m heden
 
 Burgerlijk Wetboek Boek 3, Vermogensrecht
 
@@ -1920,10 +1920,11 @@ Artikel 305a
 		4°.	het laatst vastgestelde bestuursverslag;
 		5°.	de bezoldiging van bestuurders en de leden van het toezichthoudend orgaan;
 		6°.	de doelstellingen en werkwijzen van de rechtspersoon;
-		7°.	een overzicht van de stand van zaken in lopende procedures;
+		7°.	een overzicht van de stand van zaken in lopende procedures en de resultaten daarvan;
 		8°.	indien een bijdrage wordt gevraagd van de personen tot bescherming van wier belangen de rechtsvordering strekt: inzicht in de berekening van deze bijdrage;
 		9°.	een overzicht van de wijze waarop personen tot bescherming van wier belangen de rechtsvordering strekt zich kunnen aansluiten bij de rechtspersoon en de wijze waarop zij deze aansluiting kunnen beëindigen;
-	e.	voldoende ervaring en deskundigheid ten aanzien van het instellen en voeren van de rechtsvordering.
+	e.	voldoende ervaring en deskundigheid ten aanzien van het instellen en voeren van de rechtsvordering;
+	f.	een financiering van de rechtsvordering die niet afkomstig is van een financier die een concurrent is van degene tegen wie de rechtsvordering zich richt of van een financier die afhankelijk is van degene tegen wie de rechtsvordering zich richt, indien het gaat om een rechtsvordering ter bescherming van een belang als bedoeld in artikel 2, eerste lid, van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409).
 
 3.	Een rechtspersoon als bedoeld in lid 1 is slechts ontvankelijk indien:
 	a.	de bestuurders betrokken bij de oprichting van de rechtspersoon, en hun opvolgers, geen rechtstreeks of middellijk winstoogmerk hebben, dat via de rechtspersoon wordt gerealiseerd;
@@ -1937,7 +1938,7 @@ Artikel 305a
 
 5.	Een rechtspersoon als bedoeld in lid 1 stelt een bestuursverslag en een jaarrekening op overeenkomstig het bepaalde voor verenigingen en stichtingen in respectievelijk de artikelen 49 en 300 en in Titel 9 van Boek 2. Onverminderd het in titel 9 bepaalde, wordt het bestuursverslag binnen acht dagen na vaststelling op de algemene toegankelijke internetpagina van de rechtspersoon gepubliceerd.
 
-6.	De rechter kan een rechtspersoon als bedoeld in lid 1, ontvankelijk verklaren, zonder dat aan de vereisten van lid 2, subonderdelen a tot en met e, en lid 5 behoeft te zijn voldaan, wanneer de rechtsvordering wordt ingesteld met een ideëel doel en een zeer beperkt financieel belang of wanneer de aard van de vordering van de rechtspersoon als bedoeld in lid 1 of van de personen tot bescherming van wier belangen de rechtsvordering strekt, daartoe aanleiding geeft. Bij toepassing van dit lid kan de rechtsvordering niet strekken tot schadevergoeding in geld.
+6.	De rechter kan een rechtspersoon als bedoeld in lid 1, ontvankelijk verklaren, zonder dat aan de vereisten van lid 2, onderdelen a tot en met e, en lid 5 behoeft te zijn voldaan, wanneer de rechtsvordering wordt ingesteld met een ideëel doel en een zeer beperkt financieel belang of wanneer de aard van de vordering van de rechtspersoon als bedoeld in lid 1 of van de personen tot bescherming van wier belangen de rechtsvordering strekt, daartoe aanleiding geeft. Bij toepassing van dit lid kan de rechtsvordering niet strekken tot schadevergoeding in geld. Voor de toepassing van dit lid op een rechtsvordering ter bescherming van een belang als bedoeld in artikel 2, eerste lid, van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409), moet wel zijn voldaan aan de vereisten van lid 2, onderdelen c en d, aanhef en onder 7° en 8°.
 
 7.	Er is een centraal register voor collectieve vorderingen als bedoeld in dit artikel. Dit register wordt gehouden door een bij algemene maatregel van bestuur aan te wijzen instantie.
 
@@ -1949,11 +1950,9 @@ Artikel 305b
 
 Artikel 305c
 
-1.	Een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 4 lid 3 van richtlijn nr. 2009/22/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende het doen staken van inbreuken in het raam van de bescherming van de consumentenbelangen (PbEG L 110), kan een rechtsvordering instellen die strekt tot bescherming van de gelijksoortige belangen van andere personen die hun gewone verblijfplaats hebben in het land waar de organisatie of het openbaar lichaam gezeteld is, voorzover de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
+1.	Een organisatie of openbaar lichaam met zetel buiten Nederland welke geplaatst is op de lijst, bedoeld in artikel 5, eerste lid, van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409), kan een rechtsvordering instellen die strekt tot bescherming van de gelijksoortige belangen van andere personen, voorzover de organisatie deze belangen ingevolge haar doelstelling behartigt of aan het openbaar lichaam de behartiging van deze belangen is toevertrouwd.
 
-2.	De leden 2 tot en met 7 van artikel 305a zijn van overeenkomstige toepassing.
-
-3.	Een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland die ingevolge haar statuten de belangen behartigt van eindgebruikers van niet voor een beroep of bedrijf bestemde goederen of diensten, kan, teneinde geplaatst te worden op de lijst, bedoeld in lid 1, Onze Minister van Justitie verzoeken de Commissie van de Europese Gemeenschappen mede te delen dat zij ter bescherming van deze belangen een rechtsvordering kan instellen. Onze Minister deelt in dat geval de Commissie tevens de naam en de doelstelling van de stichting of vereniging mee.
+2.	Artikel 305a, lid 2, onderdelen c, d, aanhef en onder 7° en 8°, e en f, lid 3, onderdelen b en c, en lid 4, is van overeenkomstige toepassing.
 
 Artikel 305d
 
@@ -1970,7 +1969,16 @@ Artikel 305d
 
 Artikel 305e
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Onze Minister voor Rechtsbescherming wijst op aanvraag van een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland deze stichting of vereniging aan als bevoegde instantie als bedoeld in artikel 4, derde lid, van Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409) voor het instellen van een rechtsvordering in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. De aanwijzing eindigt van rechtswege na vijf jaar.
+
+2.	Onze Minister voor Rechtsbescherming wijst een stichting of vereniging aan als bedoeld in lid 1 indien de rechtspersoon voldoet aan de voorwaarden, genoemd in artikel 305a, lid 2, onderdelen a, b en d, lid 3, onderdeel a, en lid 5 en uit de informatie op haar internetpagina blijkt:
+	a.	dat de rechtspersoon de in bijlage I van de richtlijn bedoelde belangen van natuurlijke personen die handelen voor doeleinden die geen verband houden met de handels-, bedrijfs-, ambachts- of beroepsactiviteit van die personen ingevolge haar statuten behartigt en deze belangen ook voor haar verzoek twaalf maanden daadwerkelijk openbaar heeft behartigd;
+	b.	wat de algemene financieringsbronnen van de rechtspersoon zijn;
+	c.	dat de rechtspersoon niet failliet is verklaard en geen verzoek tot faillietverklaring aanhangig is, aan de rechtspersoon geen surseance van betaling is verleend en de rechtspersoon niet probeert een akkoord te bereiken via de openbare akkoordprocedure als bedoeld in artikel 369, zesde lid, van de Faillissementswet.
+
+3.	Bij de aanwijzing plaatst Onze Minister voor Rechtsbescherming de rechtspersoon op de lijst, bedoeld in artikel 5, eerste lid, van de richtlijn. Onze Minister deelt de Europese Commissie de lijst met inbegrip van de naam en de doelstelling van de rechtspersoon mee.
+
+4.	Bij algemene maatregel van bestuur worden nadere regels gesteld voor het aanwijzen als bevoegde instantie en worden regels gesteld voor het intrekken en de duur van de aanwijzing. Bij ministeriële regeling worden regels gesteld over de kosten van de aanwijzing.
 
 Artikel 306
 
